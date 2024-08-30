@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>gres</title>
+<style>
+body{
+background-color:linen;
+{
+h1{
+color:maroon;
+margin-left: 40px;
+{
+</style>
+</haed>
+<body>
+<h1>title</h1>
+<p>paragraph two</h1>
+<h1 style="color:blue; text-align:center;">title</h1>
+<p stle="color:red;>paragraph one</p>
+</body>
+</html>
